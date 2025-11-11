@@ -21,3 +21,5 @@ console.log("The sum is ",+sum)
 console.log("The mulplication:",+multiple)
 console.log("The division is :",division)
 console.log("the sub is ",+sub)
+
+console.log("peninah ismale ")
